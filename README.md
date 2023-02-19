@@ -65,6 +65,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- [Arthur Damm](https://github.com/mqnifestkelvin) ~ [LinkedIn](https://https://https://www.linkedin.com/in/manifest-chakalov//) ~ [@mq_nifest](https://twitter.com/mq_nifest):
+- [Manifest Kelvin](https://github.com/mqnifestkelvin) ~ [LinkedIn](https://https://https://www.linkedin.com/in/manifest-chakalov//) ~ [@mq_nifest](https://twitter.com/mq_nifest):
 *Sharpening my skills at ALX School of Software Engineering.  A transitioned agricultural science student with a lifelong passion for programming and computers. Spent the last several months enjoying working as a volunteer tutor and am now excited to practice software wizardry professionally.*
 - Other contributor is yet to write his bio
